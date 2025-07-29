@@ -14,3 +14,6 @@ const createPerson = () => {
     hobbies: hobbies
   };
 };
+
+//Esporto la funzione
+module.exports = createPerson;
