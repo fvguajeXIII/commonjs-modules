@@ -17,3 +17,6 @@ const createPerson = () => {
 
 //Esporto la funzione
 module.exports = createPerson;
+
+//Test della funzione
+console.log(createPerson());
